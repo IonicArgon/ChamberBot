@@ -1,0 +1,25 @@
+{
+  "name": "chamberbot",
+  "version": "1.0.0",
+  "description": "You want to play? Let's play.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicArgon/ChamberBot.git"
+  },
+  "author": "Extro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicArgon/ChamberBot/issues"
+  },
+  "homepage": "https://github.com/IonicArgon/ChamberBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
